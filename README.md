@@ -1,4 +1,4 @@
-# background Removal Application
+# Background Removal Application
 
 A web application to remove background from the image uploaded.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
